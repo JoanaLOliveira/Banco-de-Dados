@@ -1,6 +1,6 @@
-# Programação Orientada a Objeto 
+# BANCO DE DADOS 
 
-Material da Disciplina de Programação Orientada a Objeto, do curso de Tecnologia da Informação. Utilizando JAVA 
+Material da Disciplina de Banco de dados, do curso de Tecnologia da Informação. Utilizando SQL
 
 
 ## Bibliografia Básica
